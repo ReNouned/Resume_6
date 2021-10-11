@@ -1,8 +1,9 @@
 /* General Styling */
-{
+element {
     margin: 0;
     Padding: 0;
     box-sizing:box-border;
+    background-color: aqua;
   }
   
   body {
